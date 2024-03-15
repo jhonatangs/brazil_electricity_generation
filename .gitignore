@@ -1,0 +1,5 @@
+poetry.lock
+.ipynb_checkpoints
+data/test.parquet
+data/train.parquet
+etl/__pycache__
